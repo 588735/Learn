@@ -1,5 +1,5 @@
 (function () {
-    var url = "https://blobby-boi.github.io/BlobeBM/main.html";
+    var url = "https://fractal288.github.io/gba.js.org/";
 
     // Open a new about:blank window
     var win = window.open();

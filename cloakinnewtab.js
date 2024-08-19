@@ -1,5 +1,5 @@
 (function () {
-    var url = "https://fractal288.github.io/gba.js.org/";
+    var url = "https://www.chess.com/home";
 
     // Open a new about:blank window
     var win = window.open();

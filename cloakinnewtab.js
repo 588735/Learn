@@ -1,5 +1,5 @@
 (function () {
-    var url = "https://www.chess.com/home";
+    var url = "https://catfoolyou.github.io/EaglercraftX-Client/";
 
     // Open a new about:blank window
     var win = window.open();
